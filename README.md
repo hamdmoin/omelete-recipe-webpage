@@ -17,7 +17,10 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
+#### Desktop
 ![Desktop](design/desktop.png)
+
+#### Mobile
 ![Mobile](design/mobile.png)
 
 ### Links
@@ -49,11 +52,11 @@ I learned what are media queries and their use in making responsive web pages
 }
 ```
 
-I also learned how to use and style <ul> , <ol> and <li> tags in html and CSS
+I also learned how to use and style &lt;ul> , &lt;ol> and &lt;li> tags in html and CSS
 
 ### Useful resources
 
-- [Geeksforgeeks](https://www.geeksforgeeks.org) - This website helped me understand more about <ul> and <li> tags 
+- [Geeksforgeeks](https://www.geeksforgeeks.org) - This website helped me understand more about &lt;ul> and &lt;li> tags 
 and also helped me in understanding media queries
 - [Stack overflow](https://www.stackoverflow.com) - This website helped me in solving questions I had during the project
 
